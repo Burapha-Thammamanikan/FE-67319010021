@@ -1,0 +1,11 @@
+.form-group {
+    max-width: 300px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: white;
+    padding: 40px;
+    border: 1px solid #ccc;
+    border-radius: 17px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: center;
+}
